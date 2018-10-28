@@ -1,0 +1,10 @@
+.Img {
+    width: 20px;
+    cursor: pointer;
+}
+
+.line:hover {
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    cursor: pointer;
+
+}

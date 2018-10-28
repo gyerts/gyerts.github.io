@@ -1,0 +1,40 @@
+.wrapper {
+    width: 100vw;
+    height: 100vh;
+}
+
+.header {
+    background: tomato;
+    height: 50px;
+}
+
+.content {
+    display: flex;
+    flex-flow: row wrap;
+    height: calc(100vh - 100px);
+}
+
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
+.leftPanel {
+    background: gold;
+    width: 200px;
+    overflow: auto;
+    padding-top: 5px;
+}
+
+.workspace {
+    text-align: left;
+    background: deepskyblue;
+    flex: 3;
+    overflow: auto;
+}
+
+.footer {
+    background: lightgreen;
+    height: 50px;
+    order: 3;
+}

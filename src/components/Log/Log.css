@@ -1,0 +1,11 @@
+.Log {
+    height: 50px;
+    max-height: 50px;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #eee;
+    position: absolute;
+}
+.badge {
+    margin-right: 2px;
+}

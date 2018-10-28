@@ -1,0 +1,11 @@
+.DltAppTimeLine {
+    border: 1px solid #eee;
+    min-width: 600px;
+    height: 100%;
+}
+
+.Container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
